@@ -4,12 +4,11 @@ A simple animation created with C++ and OpenGL
 
 Use the following keys to operate the application : 
 
-'D' - moves the boats to the right hand of the screen
-'A' - moves the boats to the left hand of the screen
-'W' - zooms into the scene
-'S' - zooms out of the scene
-'C' - left rotate the scene
-'X' - right rotate the scene
+'A' or 'D' - moves the boats to the left or right hand of the screen
+
+'W' or 'S' - zooms into or out of the scene
+
+'X' or 'C' - right rotate or left rotate the scene
 
 Sample outputs of the above actions are as follow :
 
